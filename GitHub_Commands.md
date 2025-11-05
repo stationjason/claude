@@ -4,43 +4,43 @@
 
 ### Essential Terms
 
-**Repository (Repo)** - Like a project folder that stores all your code, files, and the history of changes. Think of it as your project's home on GitHub.
+**`Repository (Repo)`** - Like a project folder that stores all your code, files, and the history of changes. Think of it as your project's home on GitHub.
 
-**Clone** - Making a copy of a repository from GitHub to your computer so you can work on it locally.
+**`Clone`** - Making a copy of a repository from GitHub to your computer so you can work on it locally.
 
-**Fork** - Making your own copy of someone else's repository on GitHub. It's like saying "I want to work on my own version of this project." You still have the original, but now you have your own copy you can modify without affecting the original.
+**`Fork`** - Making your own copy of someone else's repository on GitHub. It's like saying "I want to work on my own version of this project." You still have the original, but now you have your own copy you can modify without affecting the original.
 
-**Branch** - A separate version of your code where you can make changes without affecting the main code. Like having a rough draft that doesn't mess up the final version.
+**`Branch`** - A separate version of your code where you can make changes without affecting the main code. Like having a rough draft that doesn't mess up the final version.
 
-**Commit** - Saving a snapshot of your changes with a description of what you changed. Like clicking "Save" but with notes about what you did.
+**`Commit`** - Saving a snapshot of your changes with a description of what you changed. Like clicking "Save" but with notes about what you did.
 
-**Push** - Sending your commits (saved changes) from your computer to GitHub so others can see them.
+**`Push`** - Sending your commits (saved changes) from your computer to GitHub so others can see them.
 
-**Pull** - Downloading changes from GitHub to your computer to get the latest updates.
+**`Pull`** - Downloading changes from GitHub to your computer to get the latest updates.
 
-**Pull Request (PR)** - Asking the project owner to review and accept your changes. It's like saying "Hey, I made some improvements, can you add them to the main project?" Even though it says "pull," you're actually asking them to pull YOUR changes into THEIR code.
+**`Pull Request (PR)`** - Asking the project owner to review and accept your changes. It's like saying "Hey, I made some improvements, can you add them to the main project?" Even though it says "pull," you're actually asking them to pull YOUR changes into THEIR code.
 
-**Issue** - A way to track bugs, feature requests, or tasks. Like a to-do list item or bug report for a project.
+**`Issue`** - A way to track bugs, feature requests, or tasks. Like a to-do list item or bug report for a project.
 
-**Merge** - Combining changes from one branch into another. When your PR gets accepted, your changes get merged into the main code.
+**`Merge`** - Combining changes from one branch into another. When your PR gets accepted, your changes get merged into the main code.
 
-**Squash** - Combining multiple commits into one single commit. Makes the history cleaner and easier to read.
+**`Squash`** - Combining multiple commits into one single commit. Makes the history cleaner and easier to read.
 
-**Rebase** - Another way to combine changes, but it rewrites history to make it look like your changes were made on top of the latest code.
+**`Rebase`** - Another way to combine changes, but it rewrites history to make it look like your changes were made on top of the latest code.
 
-**Upstream** - The original repository that you forked from. If you copied someone's project, "upstream" refers to their original version.
+**`Upstream`** - The original repository that you forked from. If you copied someone's project, "upstream" refers to their original version.
 
-**Draft PR** - A pull request that's not ready for review yet. You're saying "I'm working on this, but don't review it yet."
+**`Draft PR`** - A pull request that's not ready for review yet. You're saying "I'm working on this, but don't review it yet."
 
-**Release** - A specific version of your software that you're officially sharing with users (like v1.0, v2.0).
+**`Release`** - A specific version of your software that you're officially sharing with users (like v1.0, v2.0).
 
-**Gist** - A simple way to share code snippets or small files. Like a mini-repository for quick sharing.
+**`Gist`** - A simple way to share code snippets or small files. Like a mini-repository for quick sharing.
 
-**Workflow/Actions** - Automated tasks that run when certain things happen (like running tests every time you push code).
+**`Workflow/Actions`** - Automated tasks that run when certain things happen (like running tests every time you push code).
 
-**API** - Application Programming Interface. A way for programs to talk to GitHub automatically instead of using the website.
+**`API`** - Application Programming Interface. A way for programs to talk to GitHub automatically instead of using the website.
 
-**SSH Key** - A secure way to connect to GitHub without typing your password every time. Like a digital key to your account.
+**`SSH Key`** - A secure way to connect to GitHub without typing your password every time. Like a digital key to your account.
 
 ---
 
